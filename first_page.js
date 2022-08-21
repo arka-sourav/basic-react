@@ -12,3 +12,6 @@ const page = (
 );
 
 ReactDOM.render(page, document.getElementById("root"));
+
+// document.getElementById("root").append(JSON.stringify(page));
+//this line is NOT same as above. This will just render js block
