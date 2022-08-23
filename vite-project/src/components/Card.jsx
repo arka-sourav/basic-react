@@ -1,7 +1,7 @@
 function Card(props) {
   return (
     <div>
-      <img src={props.img} />
+      <img src={`images/${props.img}`} />
       <div className="card--stats">
         <span>{props.rating}</span>
         <span className="gray">({props.reviewCount}) • </span>

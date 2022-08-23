@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <Hero />
       <Card
-        img="https://i.picsum.photos/id/668/200/300.jpg?hmac=E7YE9NQG89nCsmW1hc-1nACBZTj9ll8IiXS65WjdD28"
+        img="laptop.jpeg"
         rating="5.0"
         reviewCount={6}
         country="USA"
