@@ -1,4 +1,4 @@
-Airbnb clone
+Meme Generator
 
 To create project type -
 $ npm create vite@latest
